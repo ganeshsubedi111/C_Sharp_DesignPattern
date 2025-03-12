@@ -10,6 +10,10 @@ Design  pattern are generally used for solving the problems of object creation a
  These patterns deal with object creation mechanisms, optimizing and abstracting the instantiation process.
 
 ### Singleton: Ensures a class has only one instance and provides a global access point.
+   #### Implementation
+   --> Class should be sealed: prevent inheritance
+   --> Create a private default constructor to prevent other class from creating instances using new keywords within a singleton class
+   --> create a static method that acts as a constructor
 ### Factory Method: Defines an interface for creating objects but allows subclasses to alter the type of objects created.
 ### Abstract Factory: Provides an interface for creating families of related objects without specifying concrete classes.
 ### Builder: Separates the construction of a complex object from its representation.

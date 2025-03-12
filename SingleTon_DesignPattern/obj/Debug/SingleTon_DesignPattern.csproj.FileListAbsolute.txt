@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\C#_DesignPattern\C_Sharp_DesignPattern\SingleTon_DesignPattern\obj\Debug\SingleTon_DesignPattern.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#_DesignPattern\C_Sharp_DesignPattern\SingleTon_DesignPattern\obj\Debug\SingleTon_DesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#_DesignPattern\C_Sharp_DesignPattern\SingleTon_DesignPattern\bin\Debug\SingleTon_DesignPattern.exe.config
+C:\Users\User\Desktop\C#_DesignPattern\C_Sharp_DesignPattern\SingleTon_DesignPattern\bin\Debug\SingleTon_DesignPattern.exe
+C:\Users\User\Desktop\C#_DesignPattern\C_Sharp_DesignPattern\SingleTon_DesignPattern\bin\Debug\SingleTon_DesignPattern.pdb
+C:\Users\User\Desktop\C#_DesignPattern\C_Sharp_DesignPattern\SingleTon_DesignPattern\obj\Debug\SingleTon_DesignPattern.exe
+C:\Users\User\Desktop\C#_DesignPattern\C_Sharp_DesignPattern\SingleTon_DesignPattern\obj\Debug\SingleTon_DesignPattern.pdb
