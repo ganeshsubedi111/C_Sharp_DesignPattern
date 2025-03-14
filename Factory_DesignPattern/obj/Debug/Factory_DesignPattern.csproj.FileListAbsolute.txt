@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\C#_DesignPattern\C_Sharp_DesignPattern\Factory_DesignPattern\bin\Debug\Factory_DesignPattern.exe.config
+C:\Users\User\Desktop\C#_DesignPattern\C_Sharp_DesignPattern\Factory_DesignPattern\bin\Debug\Factory_DesignPattern.exe
+C:\Users\User\Desktop\C#_DesignPattern\C_Sharp_DesignPattern\Factory_DesignPattern\bin\Debug\Factory_DesignPattern.pdb
+C:\Users\User\Desktop\C#_DesignPattern\C_Sharp_DesignPattern\Factory_DesignPattern\obj\Debug\Factory_DesignPattern.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#_DesignPattern\C_Sharp_DesignPattern\Factory_DesignPattern\obj\Debug\Factory_DesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#_DesignPattern\C_Sharp_DesignPattern\Factory_DesignPattern\obj\Debug\Factory_DesignPattern.exe
+C:\Users\User\Desktop\C#_DesignPattern\C_Sharp_DesignPattern\Factory_DesignPattern\obj\Debug\Factory_DesignPattern.pdb
